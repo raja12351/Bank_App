@@ -29,10 +29,6 @@ public class HDFCBankAccount implements BankAccount{
         this.balance = balance;
     }
 
-    public int getRoi() {
-        return roi;
-    }
-
     public void setRoi(int roi) {
         this.roi = roi;
     }
